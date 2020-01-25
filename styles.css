@@ -7,3 +7,9 @@ h1, h2, h3, h4, h5, h6, p, span {
   padding: 15px;
   max-width: 500px;
 }
+
+.header {
+  padding: 5px;
+  background-color: lightgray;
+  text-align: center;
+}
